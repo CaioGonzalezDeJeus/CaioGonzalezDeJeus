@@ -1,5 +1,5 @@
-# 👋 Olá, pode de chamar de Caio!
-Atualmente sou formado em Análise e Desenvolvimento de Sistemas apaixonado por Segurança da Informação e conhecimentos em geral na área da tecnologia.
+# 👋 Olá, pode chamar de Caio!
+Atualmente sou formado em Análise e Desenvolvimento de Sistemas apaixonado por Segurança da Informação e conhecimentos em geral.
 
 ##
 ### 📲 Conecte-se Comigo:
