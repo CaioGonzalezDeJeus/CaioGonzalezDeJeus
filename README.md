@@ -1,4 +1,4 @@
-# 👋 Olá, pode chamar de Caio!
+# 👋 Olá, pode me chamar de Caio!
 Atualmente sou formado em Análise e Desenvolvimento de Sistemas apaixonado por Segurança da Informação e conhecimentos em geral.
 
 ##
