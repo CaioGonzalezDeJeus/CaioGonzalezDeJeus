@@ -6,7 +6,6 @@ Atualmente sou formado em Análise e Desenvolvimento de Sistemas apaixonado por 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-gonzalez-de-jesus-762772212/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@ELLGonzalito/)
-[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/Caio_Jesus_2000)
 [![Github](https://img.shields.io/badge/github-100000.svg?style=for-the-badge&logo=github)](https://github.com/CaioGonzalezDeJeus)
 [![Instagram](https://img.shields.io/badge/instagram-fff.svg?style=for-the-badge&logo=instagram)](https://www.instagram.com/ellgonzalito/)
 [![Hacker1](https://img.shields.io/badge/Dio-000.svg?style=for-the-badge&logo=dio)](https://www.dio.me/users/caiogonzalez2002)
