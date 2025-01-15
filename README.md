@@ -7,7 +7,7 @@ Atualmente sou formado em Análise e Desenvolvimento de Sistemas apaixonado por 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-gonzalez-de-jesus-762772212/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@ELLGonzalito/)
 [![Github](https://img.shields.io/badge/github-100000.svg?style=for-the-badge&logo=github)](https://github.com/CaioGonzalezDeJeus)
-[![Instagram](https://img.shields.io/badge/instagram-fff.svg?style=for-the-badge&logo=instagram)](https://www.instagram.com/ellgonzalito/)
+[![Instagram](https://img.shields.io/badge/instagram-fff.svg?style=for-the-badge&logo=instagram)](https://www.instagram.com/ellgonzalito.sln/)
 [![Hacker1](https://img.shields.io/badge/Dio-000.svg?style=for-the-badge&logo=dio)](https://www.dio.me/users/caiogonzalez2002)
 [![Dio](https://img.shields.io/badge/hackerone-000.svg?style=for-the-badge&logo=hackerone)](https://hackerone.com/cjgonzalez?type=user)
 
